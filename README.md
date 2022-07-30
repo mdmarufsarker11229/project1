@@ -1,2 +1,2 @@
 # project1
-This project designed by Md Maruf Sarker . This template designed with html,css
+This project made by Md Maruf Sarker . This template designed with html,css,font-awesome.
